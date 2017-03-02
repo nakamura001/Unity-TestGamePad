@@ -3,4 +3,4 @@ Unity-TestGamePad
 
 ゲームパッドのスティックやボタンがどの値を返すかをチェックする為のプログラム。
 
-[WebGLサンプル](../WebGL)
+[WebGLサンプル](./WebGL)
